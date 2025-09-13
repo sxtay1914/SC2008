@@ -30,5 +30,5 @@ This project implements the **RFC 865 Quote of the Day Protocol** using UDP sock
 Open a terminal in the project folder and run:
 
 ```bash
-javac RFC_865_Server.java Rfc865UdpClient.java
+javac RFC_865_Server.java RFC_865_Client.java
 ```
